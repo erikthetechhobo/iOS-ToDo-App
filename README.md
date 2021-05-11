@@ -1,3 +1,3 @@
 # iOS-ToDo-App
 
-Made using SwiftUI
+iOS to do app made using SwiftUI
